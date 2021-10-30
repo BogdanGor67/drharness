@@ -104,7 +104,7 @@ window.addEventListener('DOMContentLoaded', () => {
                   <div class="catalog__popup">
                       <img src="${imgSrc}" alt="image" class="catalog__popup-image">
                       <div class="catalog__popup-body">
-                        <img src="../assets/images/close.png" alt="close" class="popup-close">
+                        <img src="images/close.png" alt="close" class="popup-close">
                         <p class="catalog__popup-name">${elemName}</p>
                         <p class="catalog__card-price catalog__popup-price">
                           <span class="catalog__card-old-price">4990 р.</span>
